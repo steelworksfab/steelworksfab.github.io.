@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Steel Works and Fabrication Business</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Steel Works & Fabrication</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <img src="hero-image.jpg" alt="Steel fabrication project">
+      <h2>Your Tagline</h2>
+      <p>A brief description of your business and services.</p>
+      <a href="contact.html" class="button">Contact Us</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Your Company Name 2023</p>
+  </footer>
+</body>
+</html>
